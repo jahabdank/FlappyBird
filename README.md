@@ -98,6 +98,9 @@ Josef Habdank
 
 ## Version History
 
+* 1.3
+    * Removed unused configuration parameters
+    * Ensured consistent use of configuration parameters throughout the code
 * 1.2
     * Optimized high score loading and logging
     * Fixed issue with Hall of Fame not showing all historical scores
