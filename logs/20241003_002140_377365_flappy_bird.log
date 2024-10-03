@@ -1,0 +1,27 @@
+2024-10-03 00:21:40,634 - flappy_bird - INFO - Pygame initialized
+2024-10-03 00:21:40,709 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:41,130 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:41,425 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:41,775 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:42,351 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:42,592 - flappy_bird - INFO - Game over. Final score: 0
+2024-10-03 00:21:42,595 - flappy_bird - INFO - Saved score 0 at 2024-10-03 00:21:42
+2024-10-03 00:21:42,606 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:43,092 - flappy_bird - INFO - Showing High Score
+2024-10-03 00:21:43,277 - flappy_bird - INFO - Showing Hall of Fame
+2024-10-03 00:21:43,653 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:43,653 - flappy_bird - INFO - Game reset
+2024-10-03 00:21:44,067 - flappy_bird - INFO - Game over. Final score: 0
+2024-10-03 00:21:44,070 - flappy_bird - INFO - Saved score 0 at 2024-10-03 00:21:44
+2024-10-03 00:21:44,082 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:44,085 - flappy_bird - INFO - Showing High Score
+2024-10-03 00:21:44,633 - flappy_bird - INFO - Showing Hall of Fame
+2024-10-03 00:21:45,150 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:45,150 - flappy_bird - INFO - Game reset
+2024-10-03 00:21:45,429 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:46,127 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:46,660 - flappy_bird - DEBUG - Bird flapped
+2024-10-03 00:21:46,907 - flappy_bird - INFO - Game over. Final score: 0
+2024-10-03 00:21:46,910 - flappy_bird - INFO - Saved score 0 at 2024-10-03 00:21:46
+2024-10-03 00:21:46,922 - flappy_bird - INFO - Loaded 10 high scores
+2024-10-03 00:21:49,605 - flappy_bird - INFO - Game quit by user

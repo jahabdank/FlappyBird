@@ -1,0 +1,50 @@
+2024-10-02 23:20:37,248 - flappy_bird - INFO - Pygame initialized
+2024-10-02 23:20:37,318 - flappy_bird - INFO - Loaded 52 high scores
+2024-10-02 23:20:37,319 - flappy_bird - INFO - Starting new game
+2024-10-02 23:20:37,745 - flappy_bird - INFO - Game over. Final score: 0
+2024-10-02 23:20:37,748 - flappy_bird - INFO - Saved score 0 at 2024-10-02 23:20:37
+2024-10-02 23:20:37,960 - flappy_bird - INFO - Showing High Score
+2024-10-02 23:20:38,294 - flappy_bird - INFO - Loaded 53 high scores
+2024-10-02 23:20:38,294 - flappy_bird - INFO - Showing Hall of Fame
+2024-10-02 23:20:38,591 - flappy_bird - INFO - Game reset
+2024-10-02 23:20:38,917 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:39,511 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:40,025 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:40,673 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:40,906 - flappy_bird - INFO - Score increased to 1
+2024-10-02 23:20:41,437 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:41,967 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:41,999 - flappy_bird - INFO - Score increased to 2
+2024-10-02 23:20:42,522 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:43,120 - flappy_bird - INFO - Score increased to 3
+2024-10-02 23:20:43,168 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:43,679 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:44,227 - flappy_bird - INFO - Score increased to 4
+2024-10-02 23:20:44,546 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:45,091 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:45,323 - flappy_bird - INFO - Score increased to 5
+2024-10-02 23:20:45,624 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:46,169 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:46,439 - flappy_bird - INFO - Score increased to 6
+2024-10-02 23:20:46,991 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:47,290 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:47,555 - flappy_bird - INFO - Score increased to 7
+2024-10-02 23:20:48,022 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:48,600 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:48,649 - flappy_bird - INFO - Score increased to 8
+2024-10-02 23:20:49,147 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:49,760 - flappy_bird - INFO - Score increased to 9
+2024-10-02 23:20:49,975 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:50,454 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:50,868 - flappy_bird - INFO - Score increased to 10
+2024-10-02 23:20:51,065 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:51,830 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:51,963 - flappy_bird - INFO - Score increased to 11
+2024-10-02 23:20:52,412 - flappy_bird - DEBUG - Bird flapped
+2024-10-02 23:20:53,081 - flappy_bird - INFO - Score increased to 12
+2024-10-02 23:20:53,231 - flappy_bird - INFO - Game over. Final score: 12
+2024-10-02 23:20:53,233 - flappy_bird - INFO - Saved score 12 at 2024-10-02 23:20:53
+2024-10-02 23:20:54,764 - flappy_bird - INFO - Showing High Score
+2024-10-02 23:20:56,202 - flappy_bird - INFO - Loaded 54 high scores
+2024-10-02 23:20:56,202 - flappy_bird - INFO - Showing Hall of Fame
+2024-10-02 23:21:00,750 - flappy_bird - INFO - Game quit by user
