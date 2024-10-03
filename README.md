@@ -1,6 +1,12 @@
 # Flappy Bird Clone
 
-This is an advanced Flappy Bird clone implemented in Python using the Pygame library.
+This is a Flappy Bird clone implemented in Python using the Pygame library.
+
+It was fully created using GenAI. I started by doing first draft in OpenAI o1 model. Then I created a project in Cursor and continued form there on. Not a single caracter of code was written by me, all was done using english language describing changes to game or code (refactoring, new features) as well as bugs (I only described the issues, and Cursor self identified the fixes).
+
+GenAI already is amazing, but it is still not perfect. However, the bigest issue I faced was technical -> namy that the output context window of a model was too short, I had to force it to implement changes in parts. Additionally I am a decent programmer myslef, which helped me to guide the process and correct the code when issues were found.
+
+The models need to improve in human-in-the-loop way of working. They try to do too much at once, and need to be guided by the user more. However they are amazing tools, and will only get better over time.
 
 ## Description
 
